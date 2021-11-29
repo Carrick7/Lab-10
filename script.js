@@ -1,6 +1,5 @@
 function array(){
   var userInput=[];
-  var arrayLength=userInput.length;
   var totalSum=0;
     for(i=0;i<5;i++){
       userInput[i]=prompt("Please Enter Your "+(i+1)+" Number for the Array")
