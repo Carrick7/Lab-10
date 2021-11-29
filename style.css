@@ -1,0 +1,23 @@
+body{
+  background-color: rgb(255, 188, 249);
+  font-family: monospace;
+  font-size: 17px;
+}
+#main{
+  background-color: white;
+  text-align: center;
+  margin: 10px auto;
+  max-width: 600px;
+  padding: 20px;
+}
+h3{
+  text-align: left;
+}
+button{
+  width: 60%;
+  padding: 10px;
+  margin-bottom: 10px;
+  background: #ff5395;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+}
